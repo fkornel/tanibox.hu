@@ -1,2 +1,2 @@
-# tboxcompro
-Tanibox Company Profile Website
+# tboxhupro
+Tanibox Hungarian Profile Website
